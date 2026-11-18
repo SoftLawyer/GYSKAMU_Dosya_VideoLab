@@ -1,0 +1,8 @@
+node_modules/
+.DS_Store
+out_stills/
+public/audio/*.wav
+public/audio/seg_*.mp3
+public/audio/charon_seg_*.mp3
+__pycache__/
+*.pyc

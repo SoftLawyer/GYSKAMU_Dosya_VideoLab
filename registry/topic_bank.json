@@ -1,0 +1,451 @@
+{
+  "categories": {
+    "disiplin_savunma": [
+      {
+        "id": "dis_01",
+        "title": "Amir 'Yarına Kadar Savunma Ver Yoksa Cezayı Basarım' Dedi… Ceza Geçerli mi? (7 Gün Kilidi)",
+        "hook": "Amir masaya savunma yazısını fırlatıp '24 saat süren var!' dedi ve ertesi gün aylıktan kesme cezası verdi… Ama mahkemede ceza tek kalemde çöktü!",
+        "summary": "657 sayılı DMK m. 130 ve Anayasa m. 129/2 uyarınca memura 7 günden az savunma süresi verilemez. 6 gün bile süre verilse savunma hakkı kısıtlandığı için verilen disiplin cezası esasa dahi girilmeden idare mahkemesince iptal edilir.",
+        "laws": ["657 Sayılı DMK m. 130 (Savunma Hakkı - En Az 7 Gün)", "T.C. Anayasası m. 129/2", "Danıştay İDDK Yerleşik İçtihadı"]
+      },
+      {
+        "id": "dis_02",
+        "title": "Haksız Tutanağı İmzalamamak mı Kurtarır, Şerh Düşmek mi? (İmzadan İmtina Tuzağı)",
+        "hook": "Amir gerçeğe aykırı bir tutanak hazırlayıp 'Hemen imzala!' dedi… Memur 'Asla imzalamam' derse kendi eliyle tuzağa mı düşer?",
+        "summary": "Tutanağı hiç imzalamamak amire iki şahitle 'imzadan imtina etti (kaçındı)' tutanağı tutma fırsatı verir. Hukuki kalkan; imza kısmının üstüne 'Tutanak içeriğini kabul etmiyorum, yalnızca tebellüğ ettim' şerhi düşerek tarih ve saat yazıp imzalamaktır.",
+        "laws": ["T.C. Anayasası m. 38/5 (Kimse Kendini Suçlamaya Zorlanamaz)", "657 Sayılı DMK m. 130", "Danıştay 12. Dairesi Emsal Kararları"]
+      },
+      {
+        "id": "dis_03",
+        "title": "Disiplin Cezasına İtiraz Eden Memurun Cezası Ağırlaştırılabilir mi? (Aleyhe Bozma Yasağı)",
+        "hook": "Uyarma cezası alan memura amiri gözdağı verdi: 'İtiraz edersen kurula söylerim, cezanı kınamaya çevirip ağırlaştırırım!' Peki bu mümkün mü?",
+        "summary": "657 sayılı DMK m. 135 ve Devlet Memurları Disiplin Yönetmeliği m. 35 gereğince itiraz üzerine disiplin amirleri veya disiplin kurulları verilen cezayı kabul edebilir, hafifletebilir veya tamamen kaldırabilir; ancak asla daha ağır bir ceza veremez.",
+        "laws": ["657 Sayılı DMK m. 135 (İtiraz ve Aleyhe Ağırlaştırma Yasağı)", "Devlet Memurları Disiplin Yönetmeliği m. 35"]
+      },
+      {
+        "id": "dis_04",
+        "title": "Delilleri Göstermeden Savunma İsteyen Müfettişin Cezası Neden İptal Olur?",
+        "hook": "Soruşturmacı 'Hakkında şikayet ve tanık ifadeleri var, savunmanı yaz' dedi ama dosyadaki belgeleri memura göstermeyi reddetti!",
+        "summary": "657 sayılı DMK m. 129 ve Danıştay kararlarına göre memur; hakkındaki tüm soruşturma evrakını, tanık ifadelerini ve delilleri inceleme hakkına sahiptir. İsnat edilen fiilin yer, zaman ve somut delilleri açıkça bildirilmeden alınan savunmayla verilen ceza hukuka aykırıdır.",
+        "laws": ["657 Sayılı DMK m. 129 & m. 130", "T.C. Anayasası m. 36 (Adil Yargılanma Hakkı)", "Danıştay İDDK Kararları"]
+      },
+      {
+        "id": "dis_05",
+        "title": "2 Yıl Önceki Olaydan Şimdi Disiplin Cezası Verilebilir mi? (Ceza Zamanaşımı - DMK m. 127)",
+        "hook": "Yeni gelen müdür eski arşivleri karıştırdı, 26 ay önceki bir evrak hatasını bulup memura disiplin cezası kesti! Ceza uygulanabilir mi?",
+        "summary": "657 sayılı DMK m. 127/2 uyarınca disiplin cezasını gerektiren fiil ve hallerin işlendiği tarihten itibaren nihayet 2 yıl içinde disiplin cezası verilmediği takdirde ceza verme yetkisi kesin olarak zamanaşımına uğrar.",
+        "laws": ["657 Sayılı DMK m. 127 (Zamanaşımı: 1 Ay / 6 Ay / 2 Yıl Kesin Süre)"]
+      },
+      {
+        "id": "dis_06",
+        "title": "Koridorda Amire 'Günaydın' Demeyen veya Ayağa Kalkmayan Memur Ceza Alır mı?",
+        "hook": "Amir odaya girdiğinde ayağa kalkmayan ve koridorda selam vermeyen memura 'amire saygısızlıktan' kınama cezası verdi! Danıştay ne dedi?",
+        "hook_short": "Odaya giren amire ayağa kalkmadı diye saygısızlıktan ceza kesildi!",
+        "summary": "Danıştay 12. Dairesi yerleşik içtihatlarına göre selamlaşmak, günaydın demek, ceket iliklemek veya amir odaya girdiğinde ayağa kalkmak görgü ve nezaket kuralıdır; mevzuatta yazılı bir zorunluluk olmadığı için yapılmaması 'disiplin suçu' oluşturmaz.",
+        "laws": ["657 Sayılı DMK m. 125", "T.C. Anayasası m. 38 (Suç ve Cezaların Kanuniliği)", "Danıştay 12. Dairesi Emsal Kararları"]
+      },
+      {
+        "id": "dis_07",
+        "title": "Amire 'Müdürüm' Yerine 'Ahmet Bey' Demek Disiplin Suçu mudur?",
+        "hook": "Toplantıda amirine makam unvanı yerine ismiyle 'Ahmet Bey' diye hitap eden memura saygısızlıktan tutanak tutuldu!",
+        "summary": "Danıştay kararlarına göre Türkçede 'Bey' veya 'Hanım' hitabı nezaket ve saygı ifadesidir. Tahkir, küçümseme veya hakaret kastı taşımadığı sürece unvan yerine 'Bey/Hanım' denilmesi amire saygısızlık suçu sayılamaz.",
+        "laws": ["657 Sayılı DMK m. 10 & m. 125", "Danıştay 12. Dairesi İçtihadı"]
+      },
+      {
+        "id": "dis_08",
+        "title": "Amir 'Bana Surat Astın, Somurttun' Diye Ceza Kesebilir mi? (Şüpheden Uzak Delil İlkesi)",
+        "hook": "Odasına çağırdığı memura 'Karşımda surat asıp somurtuyorsun!' diyerek tek imzalı tutanakla uyarma cezası verdi!",
+        "summary": "Disiplin hukukunda cezalandırma için sübjektif algı veya amirin kişisel yorumu yetmez; fiilin şüpheden uzak, somut ve objektif delillerle kanıtlanması şarttır. Mimik veya surat ifadesi soyut iddiasıyla verilen ceza mahkemede iptal edilir.",
+        "laws": ["657 Sayılı DMK m. 125", "Disiplin Hukukunda Şüpheden Sanık Yararlanır İlkesi", "Danıştay İçtihadı"]
+      },
+      {
+        "id": "dis_09",
+        "title": "5 Yıl Geçen Disiplin Cezasını Amir 'Özlük Dosyandan Sildirmem' Diyebilir mi? (DMK m. 133)",
+        "hook": "5 yıl önce aldığı uyarma/kınama cezasının silinmesi için dilekçe veren memura amiri 'Ben buradayken o leke dosyanda kalacak' dedi!",
+        "summary": "657 sayılı DMK m. 133 uyarınca uyarma ve kınama cezalarının uygulanmasından 5 sene, diğer cezaların 10 sene sonra memur başvuruda bulunursa atamaya yetkili amir tarafından cezanın özlük dosyasından silinmesi yasal haktır; keyfi reddedilemez.",
+        "laws": ["657 Sayılı DMK m. 133 (Disiplin Cezalarının Bir Süre Sonra Özlük Dosyasından Silinmesi)"]
+      },
+      {
+        "id": "dis_10",
+        "title": "Sendika Kararıyla 1 Gün İş Bırakan Memura 'Göreve Gelmeme' Cezası Verilebilir mi?",
+        "hook": "Üyesi olduğu sendikanın ülke genelindeki 1 günlük iş bırakma eylemine katılan memura amir 'özürsüz göreve gelmemekten' aylıktan kesme cezası verdi!",
+        "summary": "Anayasa Mahkemesi, AİHM ve Danıştay İDDK'nın kesinleşmiş içtihatlarına göre sendikal karar doğrultusunda yapılan iş bırakma eylemine katılmak anayasal örgütlenme özgürlüğü kapsamındadır ve 'geçerli mazeret' sayılır; disiplin cezası verilemez.",
+        "laws": ["T.C. Anayasası m. 51 & m. 90", "4688 Sayılı Kanun m. 18", "Danıştay İDDK & AYM Emsal Kararları"]
+      },
+      {
+        "id": "dis_11",
+        "title": "Sosyal Medyada Mesleki Eleştiri Paylaşan Memur Cezalandırılabilir mi?",
+        "hook": "Kişisel sosyal medya hesabından maaş ve çalışma koşullarını eleştiren memura idare 'kurum huzurunu bozmaktan' ceza kesti!",
+        "summary": "Anayasa m. 26 kapsamındaki ifade özgürlüğü kamu görevlilerini de korur. Hakaret, iftira, gizli devlet sırrı ifşası veya şiddet çağrısı içermeyen mesleki ve toplumsal eleştiriler disiplin suçu oluşturmaz.",
+        "laws": ["T.C. Anayasası m. 26 (İfade Özgürlüğü)", "Anayasa Mahkemesi Bireysel Başvuru Kararları", "657 Sayılı DMK m. 125"]
+      },
+      {
+        "id": "dis_12",
+        "title": "Görev Dışı Özel Hayattaki Duygusal İlişki Memurluktan Çıkarma Sebebi Olur mu?",
+        "hook": "Mesai saatleri ve kurum dışında yaşanan özel hayat iddiasıyla memura 'memurluk vakarına yakışmayan tutum'dan ceza verildi!",
+        "summary": "Anayasa m. 20 özel hayatın gizliliğini güvence altına alır. Danıştay ve AYM kararlarına göre, kamu hizmetinin işleyişine ve kurum düzenine doğrudan yansımayan özel hayat alanı disiplin soruşturmasına ve cezasına konu edilemez.",
+        "laws": ["T.C. Anayasası m. 20 (Özel Hayatın Gizliliği)", "657 Sayılı DMK m. 125", "Anayasa Mahkemesi & Danıştay Kararları"]
+      }
+    ],
+    "izin_rapor": [
+      {
+        "id": "izin_01",
+        "title": "Amir Doktorun Verdiği Sağlık Raporunu 'Geçersiz Saydım, İşe Gel!' Diyerek İptal Edebilir mi?",
+        "hook": "39 derece ateşle rapor alan memuru arayan amir gürledi: 'Ben o rapora inanmıyorum, iptal ettim, yarın sabah masanda ol!' Memur gitmezse ne olur?",
+        "summary": "Hiçbir idari amir hekimin verdiği sağlık raporunu kendiliğinden iptal edemez veya geçersiz sayamaz. Amir rapordan şüphe ediyorsa memuru yalnızca Sağlık Bakanlığınca belirlenen 'hakem hastaneye' sevk edebilir; hakem hastane karar verene kadar da memur izinli sayılır.",
+        "laws": ["657 Sayılı DMK m. 105", "Devlet Memurlarına Verilecek Hastalık Raporları Hakkında Yönetmelik m. 7/7", "Kamu Personeli Genel Tebliği (Seri No: 6)"]
+      },
+      {
+        "id": "izin_02",
+        "title": "Hasta Yatağındaki Memura 'Raporu Bizzat Elden Getirmezsen Tutanak Tutarım' Dayatması!",
+        "hook": "Hastaneden e-Rapor alan memura müdürü mesaj attı: 'Raporun aslını bugün bizzat kuruma elden teslim etmezsen devamsızlıktan işlem yaparım!'",
+        "summary": "Hastalık Raporları Yönetmeliği m. 7/3 uyarınca alınan raporun kuruma elektronik ortamda (e-Rapor / EBYS / e-posta vb.) iletilmesi veya bildirilmesi yeterlidir. Hasta memura raporu fiziksel olarak elden getirme zorunluluğu dayatılamaz.",
+        "laws": ["657 Sayılı DMK m. 105", "Hastalık Raporları Yönetmeliği m. 7/3"]
+      },
+      {
+        "id": "izin_03",
+        "title": "Hafta Sonu İl Dışında Alınan Hangi Hastalık Raporu Geçerli, Hangisi Geçersizdir?",
+        "hook": "Pazar günü başka bir şehirdeyken rahatsızlanıp rapor alan iki memurdan birinin raporu geçerli sayıldı, diğerine ise disiplin cezası verildi! Fark neydi?",
+        "summary": "Memur yıllık izinde değilken (hafta sonu/resmi tatilde) görev yeri dışına çıktığında normal poliklinikten aldığı hastalık raporu usule aykırı sayılır; ancak 'Acil Servis'ten alınan hastalık raporu her yerde geçerlidir ve idarece reddedilemez.",
+        "laws": ["657 Sayılı DMK m. 105", "Hastalık Raporları Yönetmeliği m. 7/6", "Danıştay 12. Dairesi Kararları"]
+      },
+      {
+        "id": "izin_04",
+        "title": "Mesai Saatinde Çocuğunu Doktora Götüren Memurun Saatleri Yıllık İzinden Kesilebilir mi?",
+        "hook": "Amir memurun yıl boyunca hastanede geçirdiği 2'şer saatlik muayene sürelerini alt alta toplayıp '16 saat olmuş, yıllık izninden 2 gün kestim!' dedi!",
+        "summary": "657 sayılı DMK, DPB görüşleri ve Danıştay İDDK kararlarına göre memurun kendisinin veya bakmakla yükümlü olduğu çocuğunun mesai içindeki doktor muayenesi ve tahlil süreleri idari izin/kolaylık kapsamındadır; saatler toplanarak yıllık izinden düşülemez.",
+        "laws": ["657 Sayılı DMK m. 102 & m. 104", "DPB 10.05.2013 Tarih ve 6759 Sayılı Görüşü", "Danıştay İDDK Kararı"]
+      },
+      {
+        "id": "izin_05",
+        "title": "Amir 'Bu Seneki Yıllık İznini Kullandırmıyorum, İznini Yaktım!' Diyebilir mi? (DMK m. 103)",
+        "hook": "Yıl sonuna kadar iş yoğunluğunu bahane edip izin vermeyen amir, 1 Ocak sabahı 'Geçmiş olsun, geçen yılın izni yandı!' dedi. Gerçekten yandı mı?",
+        "summary": "657 sayılı DMK m. 103 uyarınca cari yıl içinde kullanılmayan yıllık izinler asla yanmaz; kendiliğinden bir sonraki yıla devreder. Sadece içinde bulunulan yıl ile bir önceki yılın izni birlikte kullanılabilir (2 yıldan eski izinler düşer).",
+        "laws": ["657 Sayılı DMK m. 102 & m. 103 (Yıllık İzinlerin Kullanılışı)", "T.C. Anayasası m. 50 (Ücretli Yıllık İzin Hakkı)"]
+      },
+      {
+        "id": "izin_06",
+        "title": "Yıllık İzindeyken Hastalanıp Rapor Alan Memurun Yıllık İzni Erir mi, Durur mu?",
+        "hook": "10 günlük yıllık izninin 3. gününde hastalanıp 5 gün rapor alan memura amiri 'Zaten izindeydin, 10 günün bitti işe başla' dedi!",
+        "summary": "Hastalık Raporları Yönetmeliği m. 8 uyarınca yıllık iznini kullanmakta iken hastalık raporu verilen memurun yıllık izni, raporun başladığı an kesilir (durur). Rapor süresince memur hastalık izninde sayılır; kullanılmayan 7 günlük yıllık izin hakkı yanmaz.",
+        "laws": ["657 Sayılı DMK m. 102 & m. 105", "Hastalık Raporları Yönetmeliği m. 8"]
+      },
+      {
+        "id": "izin_07",
+        "title": "Yıllık İzin Arasına Denk Gelen Resmi Tatil ve Bayram Günleri İzinden Düşülür mü?",
+        "hook": "İzin tarihleri arasına 3 günlük resmi bayram tatili giren memurun izin bakiyesinden amir tam 10 gün düştü!",
+        "summary": "DMK Genel Tebliği (Seri No: 154) ve 2429 sayılı Kanun uyarınca yıllık izin sürelerinin hesabında, izin süresine rastlayan ulusal bayram, genel tatil ve hafta tatili günleri izin süresinden sayılmaz ve yıllık izinden düşülemez.",
+        "laws": ["657 Sayılı DMK m. 102-103", "2429 Sayılı Kanun", "Devlet Memurları Kanunu Genel Tebliği (Seri No: 154)"]
+      },
+      {
+        "id": "izin_08",
+        "title": "Eşi Doğum Yapan veya Evlenen Memura Amir 'İşler Yoğun, İzin Vermiyorum' Diyebilir mi? (DMK m. 104/B)",
+        "hook": "Eşi doğum yapan memura amiri 'Kurumda personel yok, babalık iznini reddettim, görevinin başında kal!' dedi!",
+        "summary": "657 sayılı DMK m. 104/B'de düzenlenen 10 günlük babalık izni, 7 günlük evlilik izni ve 7 günlük ölüm izni 'bağlı yetki' kapsamındadır. Yani amirin takdir yetkisi yoktur; olay gerçekleştiğinde memurun talebi üzerine izin verilmesi kanunen zorunludur.",
+        "laws": ["657 Sayılı DMK m. 104/B (Mazeret İzinleri - Bağlı Yetki)", "Kamu Personeli Genel Tebliği Seri No: 6"]
+      },
+      {
+        "id": "izin_09",
+        "title": "Süt İzni Saatlerini Amir mi Belirler, Yoksa Kadın Memurun Kendisi mi? (DMK m. 104/D)",
+        "hook": "Amir yeni doğum yapan memura 'Süt iznini sadece akşam çıkıştan önce son saatte kullanabilirsin, sabah izin yok!' dedi!",
+        "summary": "657 sayılı DMK m. 104/D'nin açık hükmüne göre; süt izninin hangi saatler arasında ve günde kaç kez kullanılacağı idarenin veya amirin değil, bizzat kadın memurun kendi tercihine bırakılmıştır. Amir bu tercihi değiştiremez.",
+        "laws": ["657 Sayılı DMK m. 104/D (Süt İzni Seçim Hakkı)", "6 Seri No'lu Kamu Personeli Genel Tebliği"]
+      },
+      {
+        "id": "izin_10",
+        "title": "Annesi veya Çocuğu Ağır Hastalanan Memura 3+3 Ay Tam Maaşlı Refakat İzni! (DMK m. 105/son)",
+        "hook": "Ağır kaza geçiren annesine bakmak isteyen memura amiri 'Ancak ücretsiz izne ayrılırsan gidebilirsin' dedi… Oysa tam maaşlı izin hakkı vardı!",
+        "summary": "657 sayılı DMK m. 105/son uyarınca bakmakla yükümlü olduğu veya refakat etmediği takdirde hayatı tehlikeye girecek anne, baba, eş ve çocukları ile kardeşleri için sağlık kurulu raporuyla 3 aya kadar (gerektiğinde bir katına kadar uzatılarak toplam 6 ay) maaş ve özlük hakları korunarak ücretli refakat izni verilir.",
+        "laws": ["657 Sayılı DMK m. 105/son (Ücretli Refakat İzni)", "Hastalık ve Refakat İznine İlişkin Yönetmelik m. 10"]
+      }
+    ],
+    "mobbing_amir": [
+      {
+        "id": "mob_01",
+        "title": "Mobbing Yapan Amirin Tazminatını Devlet Öder… Ama Sonra Kimin Maaşından Keser? (Anayasa m. 129/5 Rücu)",
+        "hook": "Memuru yıldırmak için sürekli odasını ve görevini değiştiren amir 'Dava açsan ne yazar, tazminatı devletin kasası öder!' diye güldü… Yanıldı!",
+        "summary": "Anayasa m. 129/5 ve 657 sayılı DMK m. 13 uyarınca kamu görevlilerinin yetkilerini kullanırken işledikleri kusurlardan doğan tazminat davaları idare aleyhine açılır; ancak idare mahkemenin hükmettiği manevi tazminatı ödedikten sonra faiziyle birlikte kusurlu amire 'rücu' eder (cebinden tahsil eder).",
+        "laws": ["T.C. Anayasası m. 129/5 (Amire Rücu Zorunluluğu)", "657 Sayılı DMK m. 10 & m. 13", "2025/3 Sayılı Cumhurbaşkanlığı Mobbing Genelgesi"]
+      },
+      {
+        "id": "mob_02",
+        "title": "Amir 'Bu Dilekçeyi Almıyorum, Çöpe At!' Dedi… Disiplin Kusuru mu, Hapis Cezalık Suç mu? (TCK m. 121)",
+        "hook": "Memurun uzattığı resmi itiraz dilekçesini elinin tersiyle iten amir 'Ben bu dilekçeyi işleme koymam!' dedi. O an hangi suçu işledi?",
+        "summary": "Anayasa m. 74 ve 3071 sayılı Dilekçe Kanunu uyarınca usulüne uygun verilen dilekçenin kayda alınması zorunludur. Türk Ceza Kanunu m. 121 gereğince kişinin dilekçe hakkını kullanan memurun dilekçesini kabul etmeyen kamu görevlisi 6 aya kadar hapis cezası ile yargılanır.",
+        "laws": ["5237 Sayılı TCK m. 121 (Dilekçe Hakkının Kullanılmasının Engellenmesi)", "3071 Sayılı Dilekçe Kanunu m. 7", "T.C. Anayasası m. 74"]
+      },
+      {
+        "id": "mob_03",
+        "title": "Amir 'Al Şu Anahtarı Arabamı Yıkat!' Dedi: Şahsi İş Yaptıran Amirin Cezası Ne? (TCK m. 257 & DMK m. 45)",
+        "hook": "Makam odasında arabasının anahtarını memurun önüne atan amir 'Hemen oto yıkamaya götür, özel kargomu da al gel!' emri verdi!",
+        "summary": "657 sayılı DMK m. 10'a göre amir maiyetindeki memurdan özel bir menfaat temin edecek bir talepte bulunamaz; m. 45'e göre memur sınıfı ve unvanı dışında çalıştırılamaz. Memura şahsi işini yaptıran amir TCK m. 257 kapsamında 'görevi kötüye kullanma' suçunu işler.",
+        "laws": ["657 Sayılı DMK m. 10 & m. 45", "5237 Sayılı TCK m. 257 (Görevi Kötüye Kullanma)", "T.C. Anayasası m. 18 (Angarya Yasağı)"]
+      },
+      {
+        "id": "mob_04",
+        "title": "Amir 'Burası Devlet Dairesi, Çekmeceni Aç Arayacağım!' Diyebilir mi? (TCK m. 120 Haksız Arama)",
+        "hook": "Amir memurun masasına gelip 'Çekmeceni ve çantanı hemen aç, arama yapacağım!' diye bağırdı… Amir devlet dairesinde arama yapabilir mi?",
+        "summary": "Anayasa m. 20 uyarınca hâkim kararı veya gecikmesinde sakınca bulunan hallerde kanunla yetkili merciin yazılı emri olmadıkça kimsenin üstü, özel kağıtları ve eşyası aranamaz. Hukuka aykırı arama yapan kamu görevlisi TCK m. 120 uyarınca 3 aydan 1 yıla kadar hapisle cezalandırılır.",
+        "laws": ["5237 Sayılı TCK m. 120 (Haksız Arama Suçu)", "T.C. Anayasası m. 20"]
+      },
+      {
+        "id": "mob_05",
+        "title": "Kanunsuz Emri Amir Yazılı Tekrarlarsa Kim Sorumlu Olur? Peki Emir 'Suç' İse? (Anayasa m. 137)",
+        "hook": "Amir usulsüz bir evrak uzatıp 'İmzala, sorumluluk bende!' dedi. Memur imzalarsa kurtulur mu, yoksa birlikte mi yanarlar?",
+        "summary": "Anayasa m. 137 ve 657 DMK m. 11'e göre memur; yönetmelik, kararname veya kanuna aykırı gördüğü emri yerine getirmez ve aykırılığı amirine bildirir. Amir emrinde ısrar eder ve yazılı olarak yenilerse memur emri yapar, sorumluluk amire ait olur. ANCAK konusu 'suç' teşkil eden emir yazılı dahi olsa asla yerine getirilemez; getiren memur sorumluluktan kurtulamaz!",
+        "laws": ["T.C. Anayasası m. 137 (Kanunsuz Emir)", "657 Sayılı DMK m. 11", "5237 Sayılı TCK m. 24"]
+      },
+      {
+        "id": "mob_06",
+        "title": "Amir 'Seni Yarın En Ücra İlçeye Sürerim!' Dedi: Rızasız Geçici Görevlendirme Yapılabilir mi? (DMK Ek m. 8)",
+        "hook": "Kendisine itiraz eden memura masayı yumruklayan amir 'Bavulunu hazırla, yarın seni 100 kilometre ötedeki ilçeye geçici görevle sürdüm!' dedi!",
+        "summary": "657 sayılı DMK Ek Madde 8 ve Danıştay kararlarına göre kurum içi veya kurumlar arası geçici görevlendirmede memurun muvafakati (rızası) ve kamu yararı şarttır. Cezalandırma ve yıldırma amacıyla yapılan sürgün niteliğindeki görevlendirmeler mahkemece yürütmesi durdurularak iptal edilir.",
+        "laws": ["657 Sayılı DMK Ek Madde 8", "2577 Sayılı İYUK m. 27 (Yürütmenin Durdurulması)", "Danıştay İDDK Kararları"]
+      },
+      {
+        "id": "mob_07",
+        "title": "Odada Baş Başayken Hakaret Eden Amirin Sesini Kaydetmek Suç mu, Yoksa Tek Yasal Delil mi?",
+        "hook": "Kapıyı kapatıp tanık yokken memura ağır hakaret ve tehditler savuran amir 'Kanıtın yok, kime şikayet edersen et!' dedi… Ama memur kayıttaydı!",
+        "summary": "Normalde izinsiz ses kaydı TCK m. 133 kapsamında suçtur. Ancak Yargıtay Ceza Genel Kurulu'na göre; kişiye karşı işlenmekte olan ani bir suçta (hakaret/tehdit), o an başka türlü kanıt elde etme imkânı yoksa ve planlı bir tuzak kurulmamışsa, mağdurun aldığı ses kaydı suç oluşturmaz ve hukuka uygun delil sayılır.",
+        "laws": ["5237 Sayılı TCK m. 125 & m. 133", "Yargıtay Ceza Genel Kurulu Emsal İçtihadı"]
+      },
+      {
+        "id": "mob_08",
+        "title": "Amir 'Bizim Sendikaya Geçmezsen Seni Sürerim!' Dedi: Sendika Baskısının Cezası Ne? (TCK m. 118)",
+        "hook": "Amir odasına çağırdığı memurun önüne istifa formu koyup 'Bugün sendikandan çıkıp bizimkine üye olacaksın, yoksa sicilini yakarım!' dedi!",
+        "summary": "5237 sayılı TCK m. 118 uyarınca bir kimseye bir sendikaya üye olmaya veya olmamaya, sendikadan ayrılmaya zorlamak amacıyla cebir veya tehdit kullanan kişi 6 aydan 2 yıla kadar hapis cezası ile cezalandırılır.",
+        "laws": ["5237 Sayılı TCK m. 118 (Sendikal Hakların Kullanılmasının Engellenmesi)", "T.C. Anayasası m. 51", "4688 Sayılı Kanun m. 18"]
+      },
+      {
+        "id": "mob_09",
+        "title": "Amir 'Telefonunu Ver, WhatsApp Mesajlarına Bakacağım!' Diyebilir mi? (TCK m. 132)",
+        "hook": "Kurum içinde kimin şikayet yazdığını bulmak isteyen amir, memurun elinden şahsi telefonunu almaya kalkıştı!",
+        "summary": "Anayasa m. 22 haberleşmenin gizliliğini korur. Hiçbir idari amir memurun şahsi cep telefonunu inceleyemez ve mesajlarına bakamaz; aksi davranış TCK m. 132 kapsamında haberleşmenin gizliliğini ihlal suçunu (1 yıldan 3 yıla kadar hapis) oluşturur.",
+        "laws": ["T.C. Anayasası m. 22 (Haberleşmenin Gizliliği)", "5237 Sayılı TCK m. 132"]
+      },
+      {
+        "id": "mob_10",
+        "title": "Görevi Başındaki Memura Hakaret Eden Vatandaşa Amir 'Alttan Al, Şikayetçi Olma' Diyebilir mi? (TCK m. 125/3-a)",
+        "hook": "Bankoda görev yapan memura hakaret yağdıran vatandaşa karşı amir 'Vatandaştır idare et, büyütme' dedi… Oysa o suç şikayete bile bağlı değil!",
+        "summary": "5237 sayılı TCK m. 125/3-a uyarınca kamu görevlisine görevinden dolayı hakaret suçunun cezası 1 yıldan az olamaz ve bu suç takibi şikayete bağlı değildir; savcılıkça resen soruşturulur (Beyaz Kod / tutanak ile doğrudan adli süreç başlar).",
+        "laws": ["5237 Sayılı TCK m. 125/3-a (Kamu Görevlisine Görevinden Dolayı Hakaret - Alt Sınır 1 Yıl)"]
+      }
+    ],
+    "mesai_nobet": [
+      {
+        "id": "mes_01",
+        "title": "Gece 23:00'te WhatsApp'tan Atılan Talimata Bakmayan Memura Ceza Verilebilir mi?",
+        "hook": "Pazar gecesi 23:00'te WhatsApp grubundan mesaj atan amir, sabah ilk iş 'Mesajıma cevap vermedin!' diyerek tutanak tuttu!",
+        "summary": "Anayasa m. 50 uyarınca dinlenmek çalışanların hakkıdır. Ayrıca 7201 sayılı Tebligat Kanunu'na göre WhatsApp resmi tebligat kanalı değildir. Mesai saatleri dışında özel telefondan gönderilen mesajı görmeyen memura disiplin cezası verilemez.",
+        "laws": ["T.C. Anayasası m. 50 (Dinlenme Hakkı)", "657 Sayılı DMK m. 99", "7201 Sayılı Tebligat Kanunu", "Danıştay Kararları"]
+      },
+      {
+        "id": "mes_02",
+        "title": "Mesai Bitiminde 'Dosyalar Bitmeden Kimse Çıkamaz!' Diyerek Kapıyı Kilitleyen Amir Hangi Suçu İşler? (TCK m. 109)",
+        "hook": "Saat 17:30'da mesai bittiğinde kapının önüne geçen amir 'Bu evraklar bitmeden bu gece kimse buradan çıkamaz!' diye bağırdı!",
+        "summary": "657 sayılı DMK m. 99'a göre memurun haftalık çalışma süresi 40 saattir. Usulüne uygun yazılı fazla çalışma oluru olmaksızın mesai bitiminde memuru zorla kurumda tutmak TCK m. 109 kapsamında 'Kişiyi Hürriyetinden Yoksun Kılma' suçunu oluşturabilir.",
+        "laws": ["657 Sayılı DMK m. 99 & m. 178", "5237 Sayılı TCK m. 109 (Kişiyi Hürriyetinden Yoksun Kılma)", "T.C. Anayasası m. 19"]
+      },
+      {
+        "id": "mes_03",
+        "title": "Fazla Mesai Ücreti Olmayan Kurumda Yaptırılan Her 8 Saat Fazla Çalışmanın Karşılığı Nedir? (DMK m. 178/B)",
+        "hook": "Haftalarca mesaiye kalan memura amiri 'Bizim kurumda fazla mesai ödeneği yok, boşuna beklentiye girme!' dedi… Peki kanundaki zorunlu izin?",
+        "summary": "657 sayılı DMK m. 178/B uyarınca kurumlar gerektiğinde personelini günlük çalışma saatleri dışında fazla çalışma ücreti vermeksizin çalıştırabilir; ANCAK bu durumda personele yaptırılacak her 8 saatlik fazla çalışma karşılığında 1 gün ücretli izin verilmesi kanunen zorunludur!",
+        "laws": ["657 Sayılı DMK m. 178/B (Her 8 Saate 1 Gün İzin Zorunluluğu)", "T.C. Anayasası m. 18 (Angarya Yasağı)"]
+      },
+      {
+        "id": "mes_04",
+        "title": "Amir 'Öğle Arasında Dışarı Çıkamazsın, Masanda Telefonlara Bakacaksın!' Diyebilir mi? (DMK m. 100)",
+        "hook": "Saat 12:30'da yemeğe çıkmak isteyen memura amiri 'Öğle arasında nöbetleşe masada oturup telefonlara bakacaksınız!' talimatı verdi!",
+        "summary": "657 sayılı DMK m. 99 ve m. 100 ile Anayasa m. 50 uyarınca öğle dinlenme süresi mesai saatine dahil değildir ve memurun kesintisiz dinlenme hakkıdır. Fazla çalışma hükümleri işletilmeden öğle arasında memur zorla çalıştırılamaz.",
+        "laws": ["657 Sayılı DMK m. 99 & m. 100", "T.C. Anayasası m. 18 & m. 50"]
+      },
+      {
+        "id": "mes_05",
+        "title": "Hamile veya Yeni Doğum Yapmış Memura 'Personel Eksik' Diyerek Gece Nöbeti Yazılabilir mi? (DMK m. 101)",
+        "hook": "25 haftalık hamile memura amiri 'Serviste kimse yok, bu gece nöbetçisin!' dedi… Kanun bu konuda amire takdir hakkı tanıyor mu?",
+        "summary": "657 sayılı DMK m. 101'in emredici hükmüne göre; kadın memurlara tabip raporunda belirtilmesi halinde hamileliğin 24. haftasından önce ve her halde hamileliğin 24. haftasından itibaren ve doğumdan sonraki 2 yıl süreyle gece nöbeti ve gece vardiyası görevi verilemez.",
+        "laws": ["657 Sayılı DMK m. 101 (Hamile ve Analık Halinde Gece Nöbeti Yasağı)", "T.C. Anayasası m. 41"]
+      },
+      {
+        "id": "mes_06",
+        "title": "Hafta Sonu İl Dışına Çıkan Memur Amirden İzin Almak Zorunda mı? (6111 Sayılı Kanun Değişikliği)",
+        "hook": "Pazar günü ailesiyle komşu ile kahvaltıya giden memura pazartesi sabahı amiri 'Benden izinsiz il dışına çıkmışsın, tutanak tutuyorum!' dedi!",
+        "summary": "Eskiden DMK Ek Madde 20'de yer alan tatillerde il dışına çıkış izni şartı, 2011 yılında 6111 sayılı Kanun ile tamamen yürürlükten kaldırılmıştır. Memur hafta sonu ve resmi tatillerde kimseden izin almadan şehir dışına çıkabilir.",
+        "laws": ["657 Sayılı DMK (6111 Sayılı Kanun İle Mülga Ek m. 20 ve m. 125/C-g)", "T.C. Anayasası m. 23 (Yerleşme ve Seyahat Hürriyeti)"]
+      },
+      {
+        "id": "mes_07",
+        "title": "Engelli Memura veya Bakmakla Yükümlü Olduğu Engelli Yakını Olan Memura Gece Nöbeti Yazılabilir mi? (DMK m. 101)",
+        "hook": "Amir engelli memura 'Herkes eşit, sen de gece vardiyasına kalacaksın!' dedi… Oysa DMK m. 101'de çok net bir yasak var!",
+        "summary": "657 sayılı DMK m. 101/2 uyarınca engelli memurlara kendi isteği dışında gece nöbeti ve gece vardiyası görevi kesinlikle verilemez.",
+        "laws": ["657 Sayılı DMK m. 101/2 (Engelli Memura Gece Nöbeti Yasağı)"]
+      },
+      {
+        "id": "mes_08",
+        "title": "Mesai Saatinde 'Telefona Baktın' Diye Somut Hizmet Aksatması Olmadan Ceza Verilebilir mi?",
+        "hook": "Masasında telefonuna gelen bildirime 10 saniye bakan memura amir 'Mesai saatinde telefonla oynadın!' diye ceza kesti!",
+        "summary": "Danıştay içtihatlarına göre yalnızca telefona bakmış olmak tek başına disiplin suçu oluşturmaz; bu davranışın kamu hizmetini somut biçimde aksattığının veya vatandaşın işini geciktirdiğinin kanıtlanması gerekir.",
+        "laws": ["657 Sayılı DMK m. 125", "Danıştay 12. Dairesi Emsal Kararları"]
+      },
+      {
+        "id": "mes_09",
+        "title": "Yıllık İzin Dönüşü Kar Fırtınası veya Uçak İptali Nedeniyle Geciken Memura 2 Gün Ek Süre! (DMK m. 102)",
+        "hook": "İzin dönüşü yoğun tipi nedeniyle yollar kapandı ve memur ertesi gün mesaiye yetişemedi. Amir devamsızlık tutanağı tutabilir mi?",
+        "summary": "657 sayılı DMK m. 102 uyarınca yıllık izinlerini görev yerleri dışında geçiren memurlara, çok zorunlu ve fevkalade hallerde (yol kapanması, kaza, sefer iptali vb.) dönüş için 2 gün ek süre (yol izni) tanınabilir ve belgeleyen memura ceza verilemez.",
+        "laws": ["657 Sayılı DMK m. 102 (Zorunlu Hallerde 2 Gün Ek Süre)"]
+      },
+      {
+        "id": "mes_10",
+        "title": "Kendi Bahçesindeki Fındığı/Zeytini Satan veya Kitap Yazan Memur 'Ticaret Yasağını' İhlal Eder mi? (DMK m. 28)",
+        "hook": "Köydeki bahçesinden çıkan zeytinyağını satan ve bir de roman kitabı bastıran memura amiri 'Ticaretten memurluğunu yakarım!' dedi!",
+        "summary": "657 sayılı DMK m. 28 ve Danıştay kararlarına göre; ticari bir işletme/dükkân açmaksızın kendi zirai/tarımsal mülkünün ürününü satmak ve 5846 sayılı Fikir ve Sanat Eserleri Kanunu kapsamında kitap/eser yayınlayıp telif almak ticaret yasağına girmez.",
+        "laws": ["657 Sayılı DMK m. 28 (Ticaret ve Diğer Kazanç Getirici Faaliyetlerde Bulunma Yasağı İstisnaları)", "5846 Sayılı FSEK", "Danıştay Kararları"]
+      }
+    ],
+    "ogretmen_meb": [
+      {
+        "id": "ogr_01",
+        "title": "Öğretmenin Hiç Dersi Olmayan Boş Gününe Okul Müdürü Zorla Nöbet Yazabilir mi?",
+        "hook": "Haftada bir gün dersi olmayan öğretmene okul müdürü 'Nöbetçi öğretmen eksik, boş gününde okula gelip nöbet tutacaksın!' dedi!",
+        "summary": "MEB Okul Öncesi ve İlköğretim Kurumları Yönetmeliği m. 44 ve Ortaöğretim Kurumları Yönetmeliği m. 91 uyarınca nöbet görevi öğretmene yalnızca dersinin olduğu günlerde (veya en az dersinin olduğu günde) verilebilir; hiç dersinin olmadığı boş güne resen nöbet yazılamaz.",
+        "laws": ["MEB İlköğretim Kurumları Yönetmeliği m. 44", "MEB Ortaöğretim Kurumları Yönetmeliği m. 91"]
+      },
+      {
+        "id": "ogr_02",
+        "title": "Rehber Öğretmene (PDR) Okul Müdürü 'Öğretmen Eksik' Diyerek Nöbet Görevi Verebilir mi?",
+        "hook": "Okul müdürü rehberlik öğretmeninin adına koridor nöbeti yazdı ve 'İtiraz etme, herkes tutuyor!' dedi. Yönetmelik ne diyor?",
+        "summary": "MEB Rehberlik ve Psikolojik Danışma Hizmetleri Yönetmeliği m. 22'nin kesin ve emredici hükmüne göre; rehberlik öğretmenlerine (psikolojik danışmanlara) hiçbir surette nöbet görevi verilemez.",
+        "laws": ["MEB Rehberlik ve Psikolojik Danışma Hizmetleri Yönetmeliği m. 22/1", "MEB İlköğretim Yön. m. 44/2"]
+      },
+      {
+        "id": "ogr_03",
+        "title": "Kadınlarda 20, Erkeklerde 25 Yıl Kıdemi Dolduran Öğretmene Zorla Nöbet Yazılabilir mi?",
+        "hook": "22 yıllık kadın öğretmenin nöbet muafiyeti dilekçesini reddeden müdür 'Okulda öğretmen az, yine de tutacaksın!' dedi!",
+        "summary": "MEB Yönetmelikleri ve Toplu Sözleşme hükümleri uyarınca meslekte kadınlarda 20, erkeklerde 25 hizmet yılını dolduran öğretmenler, talepleri halinde nöbet görevinden muaf tutulurlar.",
+        "laws": ["MEB İlköğretim Kurumları Yönetmeliği m. 44", "MEB Ortaöğretim Kurumları Yönetmeliği m. 91"]
+      },
+      {
+        "id": "ogr_04",
+        "title": "Branş Öğretmenine Haftada 21 Saatin Üzerinde Zorla Ders Yazılabilir mi? (Rıza Kuralı)",
+        "hook": "Müdür matematik öğretmenine haftada 30 saat ders programını dayatıp 'Girmek zorundasın!' dedi… 21 saat sınırı nedir?",
+        "summary": "MEB Yönetici ve Öğretmenlerinin Ders ve Ek Ders Saatlerine İlişkin Karar m. 5 ve m. 6 uyarınca genel bilgi ve meslek dersi öğretmenlerine 15 saat maaş karşılığı ve 6 saat zorunlu ek ders olmak üzere toplam 21 saate kadar resen ders verilebilir; 21 saatin üzerindeki (30 saate kadar) dersler öğretmenin rızasına bağlıdır.",
+        "laws": ["MEB Ders ve Ek Ders Saatlerine İlişkin Karar m. 5 & m. 6/1-b", "657 Sayılı DMK m. 89"]
+      },
+      {
+        "id": "ogr_05",
+        "title": "Okul Müdürü Son Dakika 'Bugün Çıkışta Kurul Toplantısı Var!' Diyebilir mi? (5 Gün Kuralı)",
+        "hook": "Saat 14:00'te WhatsApp'tan mesaj atan müdür 'Bugün 16:00'da öğretmenler kurulu toplantısı var, gelmeyene tutanak tutarım!' dedi!",
+        "summary": "MEB İlköğretim ve Ortaöğretim Kurumları Yönetmeliklerine göre olağanüstü acil haller dışında öğretmenler kurulu toplantılarının yeri, günü, saati ve gündemi en az 5 gün önceden öğretmenlere yazılı olarak duyurulmak zorundadır.",
+        "laws": ["MEB Ortaöğretim Kurumları Yönetmeliği m. 109", "MEB İlköğretim Kurumları Yönetmeliği m. 35"]
+      },
+      {
+        "id": "ogr_06",
+        "title": "Somut Delilsiz, İsimsiz veya Soyut Veli CİMER Şikayetiyle Öğretmene Soruşturma Açılabilir mi?",
+        "hook": "Velinin hiçbir kanıt sunmadan CİMER'e yazdığı soyut şikayet üzerine müdür öğretmenden savunma istedi!",
+        "summary": "3071 sayılı Dilekçe Kanunu m. 6 ve 4483 sayılı Kanun m. 4 uyarınca belli bir konuyu ihtiva etmeyen, somut olay, yer, zaman ve delile dayanmayan soyut şikayet dilekçeleri işleme konulamaz ve disiplin cezasına dayanak yapılamaz.",
+        "laws": ["3071 Sayılı Dilekçe Kanunu m. 6", "4483 Sayılı Kanun m. 4", "Danıştay Kararları"]
+      },
+      {
+        "id": "ogr_07",
+        "title": "Yaz Tatilinde Aralıksız 2 Ay İzinli Olan Öğretmen Resen Okula veya Komisyona Çağrılabilir mi?",
+        "hook": "Temmuz ortasında tatildeki öğretmeni arayan müdür 'Yarın okula gel, kayıt ve boya komisyonunda görevlisin!' dedi!",
+        "summary": "1739 sayılı Millî Eğitim Temel Kanunu m. 50/A ve 657 sayılı DMK m. 103/2 uyarınca öğretmenler yaz tatili içinde aralıksız iki ay izinlidirler; bu iki aylık izin dönemlerinde öğretmenler kendi rızaları dışında mesleki çalışmaya veya komisyona çağrılamazlar.",
+        "laws": ["1739 Sayılı Millî Eğitim Temel Kanunu m. 50/A", "657 Sayılı DMK m. 103"]
+      },
+      {
+        "id": "ogr_08",
+        "title": "Başvurusu Olmayan Öğretmene Hafta Sonu Zorla DYK Kursu Görevi Yazılabilir mi?",
+        "hook": "Müdür cumartesi ve pazar gününe öğretmenin haberi bile olmadan Destekleme ve Yetiştirme Kursu (DYK) yazdı!",
+        "summary": "MEB Destekleme ve Yetiştirme Kursları Yönergesi uyarınca DYK'da görev almak öğretmenin e-Kurs modülü üzerinden kendi başvurusu ve iradesine bağlıdır; rızası olmadan hafta sonu resen DYK görevi verilemez.",
+        "laws": ["MEB Destekleme ve Yetiştirme Kursları Yönergesi m. 8", "T.C. Anayasası m. 18 & m. 50"]
+      },
+      {
+        "id": "ogr_09",
+        "title": "Okul Müdürü Öğretmeni Yıldırmak İçin Her Güne Boş Saatler Koyarak 'Pencereli Ders Programı' Yaparsa Ne Olur?",
+        "hook": "Sadece 15 saat dersi olan öğretmenin programını 5 güne yayıp her gün araya 3'er boş saat koyan müdüre Danıştay'dan ağır fatura!",
+        "summary": "Danıştay 2. Dairesi'nin (E. 2015/6046, K. 2017/6537) emsal kararına göre; hizmet gereği olmaksızın öğretmeni bezdirmek amacıyla ders programının kasıtlı olarak dağıtılması mobbingdir ve manevi tazminat gerektirir.",
+        "laws": ["Danıştay 2. Dairesi E. 2015/6046, K. 2017/6537", "657 Sayılı DMK m. 10", "T.C. Anayasası m. 129/5"]
+      },
+      {
+        "id": "ogr_10",
+        "title": "Öğretmene Zorla Veli Ev Ziyareti veya Alanı Dışı Evrak Arşivleme İşi Dayatılabilir mi?",
+        "hook": "Müdür öğretmenlere 'Her biriniz bu ay akşamları 10 velinin evine ziyarete gideceksiniz, gitmeyene soruşturma açarım!' dedi!",
+        "summary": "222 sayılı Kanun m. 44 ve 7528 sayılı Öğretmenlik Mesleği Kanunu uyarınca öğretmenler kanunla verilen görevler dışında meslek dışı bir işle yükümlü tutulamaz; veli ev ziyaretleri ise gönüllülük ve planlama esasına dayanır, mesai dışı angarya olarak dayatılamaz.",
+        "laws": ["222 Sayılı İlköğretim ve Eğitim Kanunu m. 44", "7528 Sayılı Öğretmenlik Mesleği Kanunu m. 7", "T.C. Anayasası m. 18"]
+      }
+    ],
+    "kolluk_ozel": [
+      {
+        "id": "kol_01",
+        "title": "Polise Disiplin Soruşturmasında 7 Günden Az Savunma Süresi Verilirse Ceza Ne Olur? (7068 s. Kanun m. 31)",
+        "hook": "Amir polis memuruna savunma istem yazısını tebliğ edip '3 gün içinde savunmanı getir!' dedi ve 4. gün kıdem tenzili cezası verdi!",
+        "summary": "7068 sayılı Genel Kolluk Disiplin Hükümleri Hakkında Kanun m. 31/2 uyarınca kolluk personeline verilen savunma süresi 7 günden az olamaz. 7 günden eksik süre tanınarak verilen her türlü disiplin cezası idare mahkemesince iptal edilir.",
+        "laws": ["7068 Sayılı Genel Kolluk Disiplin Hükümleri Hakkında Kanun m. 31/2", "T.C. Anayasası m. 129/2"]
+      },
+      {
+        "id": "kol_02",
+        "title": "Çarşı ve Mahalle Bekçisi İçişleri Bakanı Onayı Olmadan Gündüz Vardiyasında Çalıştırılabilir mi? (7245 s. Kanun m. 12)",
+        "hook": "Karakol amiri bekçiyi sürekli sabah 08:00 - 17:00 gündüz vardiyasına yazdı. Kanuna göre bekçiyi gündüz çalıştırma yetkisi kimdedir?",
+        "summary": "7245 sayılı Çarşı ve Mahalle Bekçileri Kanunu m. 12/2 ve m. 12/3 uyarınca bekçilerin çalışma saatleri güneşin batışından doğuşuna kadardır. Güvenlik veya kamu düzeni nedeniyle gündüz çalıştırılmaları yalnızca İçişleri Bakanının onayına (veya olağanüstü hallerde Vali onayına) bağlıdır; karakol amiri keyfi gündüz vardiyası yazamaz.",
+        "laws": ["7245 Sayılı Çarşı ve Mahalle Bekçileri Kanunu m. 12/2 & m. 12/3 (7533 s. Kanun Değişikliği)"]
+      },
+      {
+        "id": "kol_03",
+        "title": "Bekçinin Haftalık 40 Saati Aşan Fazla Çalışması Yanar mı, İstirahate mi Eklenir? (7245 s. Kanun m. 12/1)",
+        "hook": "Haftada 56 saat çalıştırılan bekçiye amiri 'Fazla çalıştığın 16 saat görev icabıydı, ek izin yok!' dedi!",
+        "summary": "7245 sayılı Kanun m. 12/1 uyarınca bekçilerin haftalık çalışma süresi 40 saattir; Vali onayıyla en çok 56 saate çıkarılabilir. Ancak yoğun çalışma dönemlerinde haftalık 40 saati aşan her fazla çalışma saati, durumun ortadan kalkmasını müteakip istirahat süresine eklenmek zorundadır.",
+        "laws": ["7245 Sayılı Çarşı ve Mahalle Bekçileri Kanunu m. 12/1"]
+      },
+      {
+        "id": "kol_04",
+        "title": "Askerî Personele '1 Saat İçinde Savunmanı Yaz Getir!' Denilerek Disiplin Cezası Verilebilir mi? (6413 s. Kanun m. 40)",
+        "hook": "Komutan uzman çavuşa sabah savunma yazısını verip 'Öğlene kadar savunmanı teslim et, cezayı imzalayacağım!' dedi!",
+        "summary": "6413 sayılı TSK Disiplin Kanunu m. 40/2 uyarınca disiplin amirleri tarafından verilen savunma süresi 2 iş gününden (Yüksek Disiplin Kurulunda 3 iş gününden) az olamaz. Aynı gün içinde alınan savunmayla verilen ceza hukuka aykırıdır ve iptal edilir.",
+        "laws": ["6413 Sayılı TSK Disiplin Kanunu m. 40/2", "T.C. Anayasası m. 129/2"]
+      },
+      {
+        "id": "kol_05",
+        "title": "Sağlık Personeline (Hemşire/Doktor) Şiddet veya Hakaret Eden Hasta Yakınına 'Beyaz Kod' Verilince Ne Olur?",
+        "hook": "Acil serviste hemşireye hakaret eden hasta yakını daha sonra 'Şikayetini geri çeksin, barışalım' dedi ama dava yine de düşmedi! Neden?",
+        "summary": "3359 sayılı Sağlık Hizmetleri Temel Kanunu Ek m. 12 ve TCK m. 125/3-a uyarınca sağlık personeline görevinden dolayı işlenen hakaret ve kasten yaralama suçları şikayete bağlı değildir; Beyaz Kod bildirimiyle savcılık resen dava açar, mağdur şikayetten vazgeçse bile kamu davası devam eder ve cezalar yarı oranında artırılır!",
+        "laws": ["3359 Sayılı Kanun Ek Madde 12 (Sağlıkta Şiddet - Ceza Artırımı)", "5237 Sayılı TCK m. 125/3-a"]
+      },
+      {
+        "id": "kol_06",
+        "title": "Polis Memurunun İzninde veya İstirahatindeyken WhatsApp'tan Çağrılması Resmi Tebligat Sayılır mı?",
+        "hook": "İstirahat gününde telefonunu sessize alan polis memuruna WhatsApp grubundan ek görev yazıldı, görmeyince 'göreve gelmemekten' soruşturma açıldı!",
+        "summary": "Danıştay kararlarına göre istirahatli veya izinli kolluk personeline ek görev tebliğinin usulüne uygun ve ulaştığı teyit edilerek yapılması gerekir; yalnızca WhatsApp grubuna mesaj bırakılması resmi tebliğ yerine geçmez.",
+        "laws": ["7068 Sayılı Kanun", "7201 Sayılı Tebligat Kanunu", "Danıştay Emsal Kararları"]
+      },
+      {
+        "id": "kol_07",
+        "title": "Amirin Kolluk Personeline Tutanaksız ve Savunmasız 'Ceza Nöbeti' Yazması Yasal mı?",
+        "hook": "Amir kızdığı polis memuruna 'Sana ceza olarak bu hafta sonu fazladan 2 nöbet daha yazdım!' dedi!",
+        "summary": "7068 sayılı Kanun'da yer alan disiplin cezaları arasında 'ceza nöbeti' diye bir ceza türü yoktur. Anayasa m. 38 (kanunsuz suç ve ceza olmaz) ve m. 18 (angarya yasağı) gereği nöbet hizmeti cezalandırma aracı olarak kullanılamaz.",
+        "laws": ["7068 Sayılı Kanun m. 7 (Disiplin Cezası Türleri)", "T.C. Anayasası m. 18 & m. 38"]
+      },
+      {
+        "id": "kol_08",
+        "title": "24 Saat Nöbet Tutan Sağlık Personeli Ertesi Gün Mesaiye Bırakılabilir mi?",
+        "hook": "24 saat kesintisiz nöbet tutan hemşireye başhemşire 'Bugün servis yoğun, öğlene kadar mesaiye devam edeceksin!' dedi!",
+        "summary": "Yataklı Tedavi Kurumları İşletme Yönetmeliği m. 41/e uyarınca gece nöbeti tutan tabip, hemşire ve diğer sağlık personeline ertesi gün görev verilmez; 24 saat nöbet sonrası kesintisiz dinlenme hakkı zorunludur.",
+        "laws": ["Yataklı Tedavi Kurumları İşletme Yönetmeliği m. 41/e", "657 Sayılı DMK m. 99-101"]
+      },
+      {
+        "id": "kol_09",
+        "title": "Soruşturmayı Yürüten Muhakkik Aynı Zamanda Disiplin Kurulu Üyesi Olup Oy Kullanabilir mi?",
+        "hook": "Memur hakkında soruşturma yapıp 'ceza verilsin' diye rapor yazan muhakkik, disiplin kurulunda da koltuğa oturup ceza oyu kullandı!",
+        "summary": "Danıştay İDDK'nın yerleşik içtihatlarına göre; soruşturmayı yürüten muhakkikin (soruşturmacının) aynı dosyada disiplin kurulu üyesi olarak toplantıya katılıp oy kullanması tarafsızlık ilkesini ağır biçimde ihlal eder ve verilen disiplin cezasını sakatlar (iptal ettirir).",
+        "laws": ["Devlet Memurları Disiplin Yönetmeliği", "7068 Sayılı Kanun", "Danıştay İDDK Tarafsızlık İlkesi İçtihadı"]
+      },
+      {
+        "id": "kol_10",
+        "title": "Tekerrür Nedeniyle Bir Üst Disiplin Cezası Verilirken 'Alt Ceza İndirimi' (İyi Hal) Uygulanmaması Cezayı İptal Ettirir mi?",
+        "hook": "Geçmişte tek bir cezası olmayan başarılı memura disiplin amiri iyi hal indirimini hiç değerlendirmeden doğrudan asıl cezayı kesti!",
+        "summary": "657 sayılı DMK m. 125/3 ve 7068 sayılı Kanun uyarınca geçmiş çalışmaları olumlu olan ve ödül/başarı belgesi bulunan memurlar için bir derece hafif ceza uygulanabilir. İdare bir alt ceza uygulamıyorsa bunun hukuki gerekçesini kararda açıkça göstermek zorundadır; gerekçesiz ret kararı mahkemece iptal edilir.",
+        "laws": ["657 Sayılı DMK m. 125/3 (Bir Derece Hafif Ceza Uygulaması)", "Danıştay 12. Dairesi İçtihadı"]
+      }
+    ]
+  }
+}

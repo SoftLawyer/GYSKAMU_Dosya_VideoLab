@@ -1,0 +1,19 @@
+{
+  "version": "1.0.0",
+  "workflow_locks": {
+    "step_1_ten_options_rule": "Kullanıcı memurlara yönelik bir konu veya alan istediğinde (ör. 'disiplin konusu', 'izin raporu konusu', 'mobbing konusu', 'mesai nöbet konusu', 'öğretmen konusu', 'kolluk konusu') doğrudan video üretimine geçilmez. Önce daha önce işlenmemiş 10 adet paradoksal, merak uyandıran, yüksek izlenme potansiyelli memur/kamu görevlisi dosyası seçeneği (başlık + 1-2 cümlelik olay kancası + ilgili kanun maddesi/Danıştay içtihadı) numaralı liste halinde sunulur ve kullanıcının seçimi beklenir.",
+    "step_2_duration_lock": "Tüm videolar 45 ile 55 saniye arasında olmak zorundadır (45.0s <= totalDuration <= 55.5s). Bunun için seslendirme metni 7 bölüm (Beat 0..6) ve 16-20 konuşma segmenti halinde, toplam 100-125 kelime aralığında kurgulanır. TTS metninde marka adı fonetik olarak 'Geyese Kamu', altyazıda ise 'GYSKAMU' olarak yazılır.",
+    "step_3_action_animation_lock": "Beat 0 (Olay Yeri / Kurum Analizi / 01/07) asla sabit portre veya sadece yazı olamaz. Kurumdaki/makam odasındaki olayın fiziksel aksiyonu (ör. amirin masaya vurup sağlık raporunu yırtması, zorla tutanak dayatması, sürgün emri, çekmece araması, nöbet çizelgesi krizi vb.) FullBodyCharacter ve vektör aksiyon animasyonlarıyla bizzat sahnelenir.",
+    "step_4_luxury_design_lock": "Üstte '♦ DOSYA NO: [X]' (@gyskamu — MEMUR HAKLARI & MEVZUAT ARŞİVİ) plaketi, altında koyu espresso ve altın (gold) kaplamalı 7 kapsüllü lüks ilerleme paneli (BÖLÜM 01/07..07/07 ve % TAMAMLANDI göstergesi) standarttır.",
+    "step_5_visual_qa_lock": "Tam MP4 render öncesinde veya sonrasında npx remotion still ile sahne kareleri alınarak yazı çakışması/taşma olmadığı doğrulanır.",
+    "step_6_caption_footer_lock": "Video hazırlandığında Instagram Reels açıklama (caption) metni de otomatik olarak verilir ve altına config/settings.json içindeki 'Haklarını bil, kaybetme... GYSKAMU size; ...' sabit bloğu kelimesi kelimesine eklenir."
+  },
+  "palette": {
+    "bg_parchment": "#EFE7DA",
+    "card_ivory": "#F8F4EC",
+    "ink_espresso": "#1C1510",
+    "gold_accent": "#C5A059",
+    "crimson_verdict": "#8C1D18",
+    "forest_ok": "#1F5E3B"
+  }
+}

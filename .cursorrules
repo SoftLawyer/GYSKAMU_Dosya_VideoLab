@@ -1,0 +1,4 @@
+Lütfen işlem yapmadan önce MASTER_PROMPT.md ve AGENTS.md dosyalarını oku.
+1. Kullanıcı memurlara yönelik bir konu/alan istediğinde (ör. "memur konusu", "disiplin konusu", "izin raporu konusu", "mobbing konusu") doğrudan video üretme; önce 10 adet paradoksal memur hakları vakası seçeneği sun (python3 scripts/gyskamu_studio.py suggest --category <alan>) ve seçimini bekle.
+2. Seçilen konuyu sıradaki DOSYA NO ile 45-55 saniye arasında, Charon (Gemini 2.5 TTS, gömülü API anahtarı config/settings.json ve generate_charon_v2.py içinde) seslendirmeli ve 7 bölümlü tam boy aksiyon animasyonlu (src/GyskamuVideo.tsx) 1080x1920 MP4 olarak üret.
+3. Videonun yanına her zaman Instagram Reels caption metnini hazırla ve altına config/settings.json içindeki sabit "Haklarını bil, kaybetme... GYSKAMU size; ..." bloğunu kelimesi kelimesine ekle.

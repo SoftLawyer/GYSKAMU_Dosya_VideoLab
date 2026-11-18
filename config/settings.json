@@ -1,0 +1,26 @@
+{
+  "project_name": "GYSKAMU Dosya VideoLab",
+  "brand_handle": "@gyskamu",
+  "brand_subtitle": "MEMUR HAKLARI & MEVZUAT ARŞİVİ",
+  "gemini_api_key": "AIzaSyC3GiCewGE9Uv7w0R6stgnm51cRZysiaF8",
+  "tts": {
+    "model": "gemini-2.5-flash-preview-tts",
+    "voice_name": "Charon",
+    "atempo": 1.10,
+    "sample_rate": 44100,
+    "style_prompt": "Aşağıdaki metni genç, karizmatik, tok, merak uyandıran ve akıcı bir Türkçe belgesel/Reels anlatıcısı tonuyla oku. Her satır arasında çok kısa ve doğal bir es ver; aynı satır içinde duraksama yapma:"
+  },
+  "video": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "codec": "h264",
+    "crf": 18,
+    "min_duration_sec": 45.0,
+    "max_duration_sec": 55.5,
+    "target_beats": 7,
+    "target_segments_range": [16, 20],
+    "target_word_count_range": [100, 128]
+  },
+  "caption_mandatory_footer": "Haklarını bil, kaybetme, güvenilir ve hayat kurtaran bilgiler için takip etmeyi unutma!\n\nGYSKAMU size;\n✅ En güncel mevzuatı getirir.\n✅ En kaliteli soruları hazırlar.\n🌟 Arkasında hukukçu uzmanlar vardır.\n✅ Konu çalışmayı çok kolay hale getirir.\n✅ Hızlı iletişim kurabilme imkanı sağlar.\n🌟 Deneme sınavları şaşırtıcı derecede belirleyicidir. (Size sadece takip etmek ve indirmek kalır.)\nKamuda Görevde Yükselme Sınavlarına GYSKAMU ile hazırlanmak ayrıcalıktır.\nTakip et, kaçırma 👆 Görevde Yükselme ve Ünvan Değişikliği Sınavlarına hazırlanmak için GYSKAMU’yu hemen indir, link bio’da.\n📲 Uygulamamızı App Store veya Google Play’den indirebilir ya da web sitemiz üzerinden hemen çalışmaya başlayabilirsiniz!\n\nYasal Uyarı: Bilgilendirme amaçlıdır, hukuki tavsiye niteliğinde değildir."
+}
