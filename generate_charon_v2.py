@@ -11,7 +11,7 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 OUT_DIR = os.path.join(BASE_DIR, "public", "audio")
 os.makedirs(OUT_DIR, exist_ok=True)
 RAW_WAV = os.path.join(OUT_DIR, "charon_v2_raw.wav")
-API_KEY = os.environ.get("GEMINI_API_KEY", "AIzaSyC3GiCewGE9Uv7w0R6stgnm51cRZysiaF8")
+API_KEY = os.environ.get("GEMINI_API_KEY", "AIzaSyB6tTKorc7FvfZwLZHahlxckii4jTYQqFw")
 TEMPO = 1.10
 
 PROMPT_TEXT = """Aşağıdaki metni genç, karizmatik, tok, merak uyandıran ve akıcı bir Türkçe belgesel/Reels anlatıcısı tonuyla oku. Her satır arasında çok kısa ve doğal bir es ver; aynı satır içinde duraksama yapma:

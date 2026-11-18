@@ -2,7 +2,7 @@
   "project_name": "GYSKAMU Dosya VideoLab",
   "brand_handle": "@gyskamu",
   "brand_subtitle": "MEMUR HAKLARI & MEVZUAT ARŞİVİ",
-  "gemini_api_key": "AIzaSyC3GiCewGE9Uv7w0R6stgnm51cRZysiaF8",
+  "gemini_api_key": "AIzaSyB6tTKorc7FvfZwLZHahlxckii4jTYQqFw",
   "tts": {
     "model": "gemini-2.5-flash-preview-tts",
     "voice_name": "Charon",

@@ -29,7 +29,7 @@ Kullanıcı 10 seçenekten birini seçtiğinde aşağıdaki üretim hattını s�
 - **Telaffuz & Marka Fonetiği:** `Charon` sesinin doğal ve akıcı okuması için her segment `PROMPT_TEXT` içinde ayrı bir satır olarak yazılır; kanun ve madde numaralarının (`657 sayılı Kanun m. 130` -> `"altı yüz elli yedi sayılı kanunun yüz otuzuncu maddesi"`) ve marka adının (`GYSKAMU` -> `"Geyese Kamu"`) TTS metninde okunuşuyla yazılmasına dikkat edilir. Altyazı (`SEGMENTS_DEF`) tarafında ise ekranda görünecek şık yazım (`657 DMK m. 130`, `GYSKAMU'yu takip et.`) ve vurgu indeksleri (`"highlight": [...]`) tanımlanır.
 
 #### B. Seslendirme & Prosedürel Ses Efektleri (`generate_charon_v2.py`)
-- **Google Gemini API Anahtarı:** `config/settings.json` ve `generate_charon_v2.py` içinde gömülüdür (`AIzaSyC3GiCewGE9Uv7w0R6stgnm51cRZysiaF8`). Başka bir bilgisayarda ek ayar gerektirmeden doğrudan çalışır.
+- **Google Gemini API Anahtarı:** `config/settings.json` ve `generate_charon_v2.py` içinde gömülüdür (`AIzaSyB6tTKorc7FvfZwLZHahlxckii4jTYQqFw`). Başka bir bilgisayarda ek ayar gerektirmeden doğrudan çalışır.
 - **Model & Ses:** `gemini-2.5-flash-preview-tts` modeli, **`Charon`** sesi, `TEMPO = 1.10`.
 - **Otomatik Senkron:** Tek API çağrısıyla üretilen `charon_v2_raw.wav` dosyası `find_best_20_segments` (sessizlik adası taraması + dinamik programlama fallback) ile segmentlere bölünür, her segmentin ve alt kelime grubunun (`sub_chunks`) tam `start` / `end` saniyeleri `src/timeline.json` dosyasına yazılır.
 - **Ses Efektleri (SFX):** Sahnedeki aksiyon anlarına (masaya yumruk/darbe, evrak/mühür damgası, bariyer inişi, bölüm geçişi whoosh ve bilgi kartı pop sesleri) milisaniye hassasiyetinde mikslenir (`public/audio/master_audio.mp3`).
